@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @junsheng326
 - 👀 I’m interested in C++, Java Script adn the others.
 - 🌱 I’m currently learning C++, SQL
--  currently studying in Sunway College, computer science student
+- graduated in Sunway College
+- Currently Persuing degree in Sunway University
   
 
 <!---
